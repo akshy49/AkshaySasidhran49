@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkshaySasidhran49
+- 👋 Hi, I’m @Akshay Sasidhran
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning html, css, and js
 - 😄 Pronouns: he/him
